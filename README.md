@@ -1,4 +1,6 @@
 # Cocos2d-x_Game
+[cocos2d-x 文档](https://docs.cocos.com/cocos2d-x/manual/zh/)  
+
 安装环境、配置
 * Anaconda
 * python27
