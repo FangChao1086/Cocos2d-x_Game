@@ -17,7 +17,7 @@ C:\Users\95143>actiavte python27
 (python27) C:\Users\95143>cocos new helloworld -p com.game -l cpp -d E:/Projects/cocos_demo
 ```
 ## 时钟游戏
-### 场景控制器
+### 场景控制器 `SceneManager`
 * loadScene
 * openScene
 * clockScene
