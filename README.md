@@ -8,7 +8,7 @@
 * python2运行`setup.py`
 
 开始
-* 激活python2环境, 之前创建的python27环境名为python27
+* **激活python2环境**  python27是创建的python2环境名
 ```cmd
 C:\Users\95143>actiavte python27
 ```
