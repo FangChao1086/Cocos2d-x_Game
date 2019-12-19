@@ -1,5 +1,9 @@
 # Cocos2d-x_Game
 [cocos2d-x 文档](https://docs.cocos.com/cocos2d-x/manual/zh/)  
+* [准备工作](#准备工作)
+* [基础知识](#基础知识)
+* [时钟游戏](#时钟游戏)
+
 
 ## 准备工作
 安装环境、配置
@@ -16,6 +20,16 @@ C:\Users\95143>actiavte python27
 ```cmd
 (python27) C:\Users\95143>cocos new helloworld -p com.game -l cpp -d E:/Projects/cocos_demo
 ```
+
+## 基础知识
+以下面的时钟游戏为例
+* 导演（Director）
+  * 控制整个游戏进行
+* 场景（Scene）
+  * 开始场景，时钟场景
+* 精灵（Sprite）
+  * 其中时针、分针、秒针、分别是一个精灵
+
 ## 时钟游戏
 ### 场景控制器 `SceneManager`
 * loadScene
