@@ -31,14 +31,17 @@ C:\Users\95143>actiavte python27
   * 其中时针、分针、秒针、分别是一个精灵
 
 ## 时钟游戏
-链接：https://pan.baidu.com/s/1pfoL5yRops-S68moLlP9sA   
-提取码：udi2  
+#### 文件介绍
+* 主要C++代码文件：文件夹clockGame
+* 可执行游戏：见百度云
+  * 链接：https://pan.baidu.com/s/1pfoL5yRops-S68moLlP9sA   
+  * 提取码：udi2  
 
-### 场景控制器 `SceneManager`
+#### 场景控制器 `SceneManager`
 * loadScene
 * openScene
 * clockScene
-### 场景跳转
+#### 场景跳转
 <div align=center><img src="https://github.com/FangChao1086/Cocos2d-x_Game/blob/master/依赖文件/跳转.gif" width="600" height="500"></div> 
 
 * `loadScene -> openScene`：定时跳转
@@ -46,7 +49,7 @@ C:\Users\95143>actiavte python27
 * `openScene -> clockScene`：按钮跳转（利用回调函数）
   * 开始 -> clockScene
   * 退出 -> 结束
-### 时钟逻辑
+#### 时钟逻辑
 * 放置精灵（背景 + 时分秒针）
 * 时间获取显示（静止时间，秒针不会行走）
 * 时间动态显示（秒针动态改变）
