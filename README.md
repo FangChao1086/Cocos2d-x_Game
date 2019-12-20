@@ -31,6 +31,9 @@ C:\Users\95143>actiavte python27
   * 其中时针、分针、秒针、分别是一个精灵
 
 ## 时钟游戏
+链接：https://pan.baidu.com/s/1pfoL5yRops-S68moLlP9sA   
+提取码：udi2  
+
 ### 场景控制器 `SceneManager`
 * loadScene
 * openScene
@@ -47,3 +50,4 @@ C:\Users\95143>actiavte python27
 * 放置精灵（背景 + 时分秒针）
 * 时间获取显示（静止时间，秒针不会行走）
 * 时间动态显示（秒针动态改变）
+
