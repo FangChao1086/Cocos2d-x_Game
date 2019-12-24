@@ -33,7 +33,7 @@ C:\Users\95143>actiavte python27
 ## 时钟游戏
 #### 文件介绍
 * 主要C++代码文件：文件夹clockGame
-* 可执行游戏：见百度云
+* 可执行游戏（.exe文件）：见百度云（需要下载完整文件夹）
   * 链接：https://pan.baidu.com/s/1pfoL5yRops-S68moLlP9sA   
   * 提取码：udi2  
 
