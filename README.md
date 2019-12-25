@@ -7,9 +7,10 @@
 
 
 ## 准备工作
-安装环境、配置
+下载cocos2d-x，安装环境、配置
 * Anaconda
 * python27
+* 下载cocos2d-x到安装目录
 * python2运行`setup.py`
 
 开始
