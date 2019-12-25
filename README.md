@@ -1,4 +1,12 @@
-# Cocos2d-x_Game
+<span id="re_"></span>
+# Game_Development
+* [Cocos2d-x](#Cocos2d_x)
+* [CocosCreator](#CocosCreator)
+
+---
+
+<span id="Cocos2d_x"></span>
+## [Cocos2d-x](#re_)
 [cocos2d-x 文档](https://docs.cocos.com/cocos2d-x/manual/zh/)  
 
 * [准备工作](#准备工作)
@@ -6,7 +14,7 @@
 * [时钟游戏](#时钟游戏)
 
 
-## 准备工作
+### 准备工作
 下载cocos2d-x，安装环境、配置
 * Anaconda
 * python27
@@ -23,7 +31,7 @@ C:\Users\95143>actiavte python27
 (python27) C:\Users\95143>cocos new helloworld -p com.game -l cpp -d E:/Projects/cocos_demo
 ```
 
-## 基础知识
+### 基础知识
 以下面的时钟游戏为例
 * 导演（Director）
   * 控制整个游戏进行
@@ -32,7 +40,7 @@ C:\Users\95143>actiavte python27
 * 精灵（Sprite）
   * 其中时针、分针、秒针、分别是一个精灵
 
-## 时钟游戏
+### 时钟游戏
 #### 文件介绍
 * 主要C++代码文件：文件夹clockGame
 * 可执行游戏：需要下载完整文件夹，再运行.exe文件
@@ -55,4 +63,11 @@ C:\Users\95143>actiavte python27
 * 放置精灵（背景 + 时分秒针）
 * 时间获取显示（静止时间，秒针不会行走）
 * 时间动态显示（秒针动态改变）
+
+---
+
+<span id="CocosCreator"></span>
+## [CocosCreator](#re_)
+
+
 
