@@ -68,6 +68,6 @@ C:\Users\95143>actiavte python27
 
 <span id="CocosCreator"></span>
 ## [CocosCreator](#re_)
-
+[CocosCreator 文档](https://docs.cocos.com/creator/manual/zh/getting-started)
 
 
