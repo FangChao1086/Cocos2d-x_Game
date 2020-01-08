@@ -68,6 +68,7 @@ C:\Users\95143>actiavte python27
 
 <span id="CocosCreator"></span>
 ## [CocosCreator](#re_)
-[CocosCreator 文档](https://docs.cocos.com/creator/manual/zh/getting-started)
+[CocosCreator 文档](https://docs.cocos.com/creator/manual/zh/getting-started)  
+* [快速上手：第一个游戏_摘星星](https://docs.cocos.com/creator/manual/zh/getting-started/quick-start.html)
 
 
